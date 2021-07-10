@@ -195,6 +195,7 @@ pyreadline==2.1
 pyrsistent @ file:///C:/ci/pyrsistent_1600141795814/work
 PySocks @ file:///C:/ci/pysocks_1605287845585/work
 pytest==6.2.3
+python==3.9.6
 python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
 python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1600278539111/work
 python-language-server @ file:///tmp/build/80754af9/python-language-server_1600454544709/work
